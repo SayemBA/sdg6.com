@@ -1,1 +1,1 @@
-# sdg6.com
+# SDG 6: Clean water and sanitation
