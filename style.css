@@ -1,7 +1,7 @@
 .banner {
-	width: 1300px;
+	width: 1295px;
 	background-color: lightgray;
-	padding: 35px;
+	padding: 30px;
 	background-
 }
 
@@ -36,4 +36,17 @@
 
 .lnk {
 	font-size: 25px;
+}
+
+.buton {
+	width: 160px;
+	height: 40px;
+	background-color: royalblue;
+	position: absolute;
+	left: 45%;
+	cursor: pointer;
+}
+
+.had {
+	color: blue;
 }
